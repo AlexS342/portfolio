@@ -92,12 +92,6 @@ h2{
     font-size: 18px;
     max-width: 480px;
 }
-/*.list__element a{
-    display: block;
-    font-size: 18px;
-    text-decoration: none;
-    padding: 16px 24px;
-}*/
 .sublist{
     display: flex;
     align-items: center;
@@ -107,10 +101,6 @@ h2{
     height: 32px;
     margin: 0 16px;
 }
-/*.list__element:focus > .sublist{
-    display: block;
-    top: 54px;
-}*/
 footer{
     box-shadow: 0 0 4px 0px #555;
 }
