@@ -97,10 +97,19 @@ h2{
     align-items: center;
     position: relative;
 }
-.sublist__icon{
-    height: 32px;
+.sublist>a{
     margin: 0 16px;
 }
+.sublist>a:hover{
+    margin: 0 15px;
+}
+.sublist__icon{
+    height: 32px;
+}
+.sublist>a:hover .sublist__icon{
+    height: 34px;
+}
+
 footer{
     box-shadow: 0 0 4px 0px #555;
 }
