@@ -1,0 +1,99 @@
+[
+	{
+		"quarter": "Верстка",
+		"course": "HTML/CSS. Интерактивный курс",
+		"format": "Интерактивный курс",
+		"teacher": "Алексей Кадочников",
+		"lessons": [
+			"Основные понятия в веб-разработке",
+			"Основы языка разметки документов HTML",
+			"Основы языка оформления стилей документа CSS",
+			"Основные тэги для вёрстки, Псевдоклассы и псевдоэлементы",
+			"Основы позиционирования, работа с Flexbox",
+			"Работа с макетом дизайна в формате Figma",
+			"Основы создания адаптивного сайта",
+			"Стандарты web и вспомогательные инструменты"
+		],
+		"work": "http://f0632427.xsph.ru/html_css_layout/index.html",
+		"cod": "https://github.com/AlexS342/html_css_lessons",
+		"certificate": "https://gb.ru/certificates/1680316"
+	},
+	{
+		"quarter": "Верстка",
+		"course": "Профессиональная вёрстка",
+		"format": "Вебинарный формат",
+		"teacher": "Анна Русяева",
+		"lessons": [
+			"Позиционирование элементов. Практическая верстка",
+			"Структура HTML5, знакомство с формами",
+			"Практическое применение Bootstrap",
+			"Препроцессоры: применение на практике",
+			"Эффекты перехода и трансформации в CSS3",
+			"CSS3: медиа-запросы, адаптивная верстка",
+			"Практическое применение адаптивной верстки",
+			"Grid layout, новые возможности CSS3"
+		],
+		"work": "http: //f0632427.xsph.ru/shop-2103-shilov/index.html",
+		"cod": "https: //github.com/AlexS342/shop-2103-shilov",
+		"certificate": "https: //gb.ru/certificates/1761394"
+	},
+	{
+		"quarter": "Frontend-разработка",
+		"course": "Базовый курс JavaScript",
+		"format": "Вебинарный формат",
+		"teacher": "Павел Тарасов",
+		"lessons": [
+			"Основы языка JavaScript",
+			"Основные операторы JavaScript",
+			"Циклы, массивы, структуры данных",
+			"Объекты в JavaScript",
+			"Введение в DOM",
+			"Обработка событий в JavaScript",
+			"Урок-практикум",
+			"Анонимные функции, замыкания"
+		],
+		"work": "null",
+		"cod": "https: //github.com/AlexS342/basics_JS-2kurs",
+		"certificate": "https: //gb.ru/certificates/1761394"
+	},
+	{
+		"quarter": "Frontend-разработка",
+		"course": "Продвинутый курс JavaScript",
+		"format": "Вебинарный формат",
+		"teacher": "Сергей Герасименко",
+		"lessons": [
+			"Современный JavaScript",
+			"ООП в JavaScript",
+			"Асинхронные запросы",
+			"Регулярные выражения",
+			"Фреймворк Vue.js",
+			"Компоненты Vue.js",
+			"JavaScript на сервере",
+			"Тестирование и сборка"
+		],
+		"work": "null",
+		"cod": "null",
+		"certificate": "null"
+	},
+	{
+		"quarter": "Frontend-разработка",
+		"course": "React",
+		"format": "Вебинарный формат",
+		"teacher": "Андрей Ковалев",
+		"lessons": [
+			"null",
+			"null",
+			"null",
+			"null",
+			"null",
+			"null",
+			"null",
+			"null",
+			"null",
+			"null"
+		],
+		"work": "null",
+		"cod": "null",
+		"certificate": "null"
+	}
+]
