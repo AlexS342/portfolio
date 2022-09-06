@@ -13,7 +13,7 @@
       -ms-flex-direction: column;
           flex-direction: column;
   min-height: 100vh;
-  max-width: 940px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -78,7 +78,7 @@
 
 .wraper .content header p {
   font-size: 18px;
-  width: 600px;
+  max-width: 850px;
   text-align: center;
   color: #575757;
   margin: 16px 0;
@@ -91,9 +91,13 @@
   text-align: center;
 }
 
+.wraper .content main {
+  width: 100%;
+}
+
 .wraper .content .table {
   border: 1px solid #CCC;
-  width: 940px;
+  width: 100%;
   text-align: center;
   padding: 10px 0;
 }

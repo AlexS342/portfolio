@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    max-width: 940px;
+    max-width: 1200px;
     margin: 0 auto;
 
     .content{
@@ -41,7 +41,7 @@
             }
             p{
                 font-size: 18px;
-                width: 600px;
+                max-width: 850px;
                 text-align: center;
                 color: rgb(87, 87, 87);
                 margin: 16px 0;
@@ -54,9 +54,12 @@
             margin: 16px 0;
             text-align: center;
         }
+        main{
+            width: 100%;
+        }
         .table{
             border: 1px solid #CCC;
-            width: 940px;
+            width: 100%;
             text-align: center;
             padding: 10px 0;
             .list{
